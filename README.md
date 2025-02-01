@@ -4,7 +4,8 @@ Este repositório contém o **Diobot**, um chatbot inteligente desenvolvido com 
 ---
 Demo Live:
 
-![chatbotlive2](https://github.com/user-attachments/assets/ecb9013d-9dc8-49f2-93af-c4932bae4154)
+
+![ezgif-12a164f3c73b0](https://github.com/user-attachments/assets/e191a166-0c64-47bf-9e57-e9da867a798c)
 
 
 ---
